@@ -3,6 +3,12 @@ Reproduce bug with pip-tools when having an extra
 
 ## Setup
 
+### (Optional) If you use pyenv
+
+`pyenv virtualenv 3.9.1 pip-tools-bug-extra-repro`
+
+### Install pip-tools
+
 `pip install pip-tools`
 
 ## Test
