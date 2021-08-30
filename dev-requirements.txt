@@ -8,7 +8,7 @@ attrs==21.2.0
     # via pytest
 iniconfig==1.1.1
     # via pytest
-git+https://git@github.com/arthurio/pip-tools-bug-lib#egg=my-lib[test]
+git+https://git@github.com/arthurio/pip-tools-bug-lib#egg=my-lib
     # via
     #   -r dev-requirements.in
     #   -r requirements.txt
