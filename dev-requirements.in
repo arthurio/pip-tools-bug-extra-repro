@@ -1,0 +1,2 @@
+-r requirements.txt
+git+https://git@github.com/arthurio/pip-tools-bug-lib#egg=my-lib[test]
